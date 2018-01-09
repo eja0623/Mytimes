@@ -23,6 +23,11 @@ body {
   width: 245px;
 }
 
+.footer {
+  background-color: mediumaquamarine;
+  height: 330px;
+}
+
 header {
   display: flex;
   background-color: white;
@@ -132,6 +137,16 @@ header {
     font-size: 12px;
     color: DimGray;
 } 
+
+.my-times {
+ font-family: Georgia;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  align-content: center;
+  justify-content: center;
+}
+
 }
 
 nav span {
