@@ -161,7 +161,7 @@ header {
 } 
 
 .my-times {
- font-family: Georgia;
+  font-family: Georgia;
   font-size: 16px;
   font-weight: bold;
   color: white;
@@ -169,7 +169,6 @@ header {
   justify-content: center;
 }
 
-}
 
 nav span {
  display: inline-block;
@@ -185,20 +184,22 @@ nav a:link {
   font-family: Georgia;
   font-size: 17px;
 }
+
 .paragraph-two {
   display: flex;
   justify-content: space-between;
   margin-top: 17px;
 }
 
-
 .p-top {
   font-size: 17px;
   font-family: Georgia;
 }
+
 .top-story {
   border: 1px solid black;
 }
+
 p {
   font-family: Georgia;
   font-size: 17px;
@@ -242,7 +243,3 @@ footer nav {
   padding: 20px;
 }
 
-
-.margin {
-  margin-right: 18px;
-}
